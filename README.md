@@ -14,6 +14,9 @@ commit (hijau) = git commit -m "commit pertama" (-m command)
 
 push () = git push -u origin master
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 tambah comment
+
+
+tambah comment dari sublime
+Automatic merge failed: 
 
