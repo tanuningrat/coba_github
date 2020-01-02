@@ -17,6 +17,9 @@ push () = git push -u origin master
 tambah comment
 
 
+
 tambah comment dari sublime
-Automatic merge failed: 
+
+tambah dari github langsung
+
 
