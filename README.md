@@ -17,3 +17,6 @@ push () = git push -u origin master
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 tambah comment
 
+
+tambah dari github langsung
+
